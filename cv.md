@@ -18,7 +18,7 @@ There's nothin to say yet, and i dont have time though, so ill fix it later (or 
 * Backflip
 
 ## Languages
-* English (suck at it)
+* English (suck at it);
 * Russian (suck at it as well)
 
 
