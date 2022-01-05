@@ -7,7 +7,7 @@ Future JS developer doing his first steps
 * **Telegram:** cjcbvjqpeq;
 
 ## About me
-There's nothin to say yet, and i dont have time though, so ill fix it later (or i won't)
+There's nothin to say yet, and i dont have time though, so ill fix it later (or i won't);
 
 ## Skills
 * JavaScript;
@@ -15,11 +15,11 @@ There's nothin to say yet, and i dont have time though, so ill fix it later (or 
 * HTML 5;
 * Git;
 * Markdown;
-* Backflip
+* Backflip;
 
 ## Languages
 * English (suck at it);
-* Russian (suck at it as well)
+* Russian (suck at it as well);
 
 
 
